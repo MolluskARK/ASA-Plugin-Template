@@ -13,6 +13,114 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\ServerAPI">
+      <UniqueIdentifier>{8a3278ae-fe57-44ed-9fec-c529b3e6fbbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API">
+      <UniqueIdentifier>{2ae79ec4-04e7-4f15-93fb-f51539fc7f71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\ARK">
+      <UniqueIdentifier>{aa86669d-b24f-4a88-beb6-0e7497f21e08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\Helpers">
+      <UniqueIdentifier>{afa55f1b-51b9-4e68-8e68-d220ede68b90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE">
+      <UniqueIdentifier>{c3c141a1-89b0-4d33-8938-fbd38faef6f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Algo">
+      <UniqueIdentifier>{9bdee2ed-ea5d-408b-8ecc-f27ea5f4f6cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Algo\Impl">
+      <UniqueIdentifier>{a71e654f-d5da-4649-8a6c-57c0c8b88f0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Concepts">
+      <UniqueIdentifier>{04309811-f18f-4748-bdc2-5568ddcf6112}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Containers">
+      <UniqueIdentifier>{6a1a4404-81b5-4195-8697-813cc9b12b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Delegates">
+      <UniqueIdentifier>{e2be7696-920d-486a-bcbe-f22f339dc409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\GenericPlatform">
+      <UniqueIdentifier>{84ee8c6b-b1f5-40bc-8654-08652aca3c22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\HAL">
+      <UniqueIdentifier>{9e69faa2-f771-4f14-acb1-b03b6e4f19c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\HAL\Allocators">
+      <UniqueIdentifier>{258c3fce-ebc8-4b48-a181-e7bae577f0a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Hash">
+      <UniqueIdentifier>{55d213dc-6326-45b3-9ebf-94ca9deb03f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Internationalization">
+      <UniqueIdentifier>{ed0f7672-0c1c-4a6a-b817-3a34b329c96d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Logging">
+      <UniqueIdentifier>{93630e16-69c6-43c9-ac1b-59fa5b5aaae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Math">
+      <UniqueIdentifier>{20aa1321-3fd8-489c-9081-e00cc1f8324a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Microsoft">
+      <UniqueIdentifier>{1f406fef-c279-42ef-ad5c-ffcfe261979c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Misc">
+      <UniqueIdentifier>{f80ff93a-cb55-4959-8f14-bd7424d159bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\MSVC">
+      <UniqueIdentifier>{8da1e4b3-670b-405e-8539-07e4b9e5f79e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\ProfilingDebugging">
+      <UniqueIdentifier>{4a05a863-b737-4c65-9b91-9ed8a7bb1ac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Serialization">
+      <UniqueIdentifier>{3b9643e7-4ac2-450b-86fb-23ef44630605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Serialization\Csv">
+      <UniqueIdentifier>{bcdd02c3-f408-4d3a-805c-086a1f2dd3e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Serialization\Formatters">
+      <UniqueIdentifier>{0eca8118-a584-47cd-bddc-9202c2a223bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\String">
+      <UniqueIdentifier>{fb58678a-262d-4c7c-9a4a-69bd738ad952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Templates">
+      <UniqueIdentifier>{36cfaf3f-b859-4396-be39-4050ad587694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Traits">
+      <UniqueIdentifier>{c43ef6f8-c139-4810-b296-8826a003c408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\UObject">
+      <UniqueIdentifier>{607bcf33-57fc-4f2f-86e8-4db94b5a0d85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\API\UE\Windows">
+      <UniqueIdentifier>{fd13fd6e-3eaa-4c61-9d36-e506c5a439f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Ark">
+      <UniqueIdentifier>{080f08ff-ea96-42e4-b568-665ea5eb7cd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Logger">
+      <UniqueIdentifier>{44c93b57-1556-4997-b3a7-a6ffbb0ca59a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Logger\spdlog">
+      <UniqueIdentifier>{dc4b1254-441f-4611-a01f-35e5ac9c87fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Logger\spdlog\details">
+      <UniqueIdentifier>{33c99b73-2766-4291-9ab3-57b377d3503f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Logger\spdlog\fmt">
+      <UniqueIdentifier>{4f91d8ea-3c5a-41a2-816b-0a29902d9600}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Logger\spdlog\fmt\bundled">
+      <UniqueIdentifier>{9bf9dab6-8cc2-4f34-8a16-c8eaea11bd8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ServerAPI\Logger\spdlog\sinks">
+      <UniqueIdentifier>{b7224b9f-fdf8-4ff9-b05d-49a6901f877c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Plugin.cpp">
@@ -21,5 +129,2278 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="vcpkg.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\IApiUtils.h">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\ICommands.h">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\IHooks.h">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\json.hpp">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Requests.h">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Timer.h">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Tools.h">
+      <Filter>Header Files\ServerAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\Base.h">
+      <Filter>Header Files\ServerAPI\API</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\Enums.h">
+      <Filter>Header Files\ServerAPI\API</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\Fields.h">
+      <Filter>Header Files\ServerAPI\API</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\Actor.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\Ark.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\Buff.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\GameMode.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\Inventory.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\Other.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\PrimalStructure.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\ARK\UE.h">
+      <Filter>Header Files\ServerAPI\API\ARK</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\Helpers\Helpers.h">
+      <Filter>Header Files\ServerAPI\API\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Core.h">
+      <Filter>Header Files\ServerAPI\API\UE</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\CoreFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\CoreGlobals.h">
+      <Filter>Header Files\ServerAPI\API\UE</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\CoreMinimal.h">
+      <Filter>Header Files\ServerAPI\API\UE</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\CoreSharedPCH.h">
+      <Filter>Header Files\ServerAPI\API\UE</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\CoreTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Accumulate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\AllOf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\AnyOf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\BinarySearch.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Common.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Compare.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Copy.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Count.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Find.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\FindLast.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\FindSequence.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\FindSortedStringCaseInsensitive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\ForEach.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Heapify.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\HeapSort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\IndexOf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\IntroSort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\IsHeap.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\IsSorted.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\KahnTopologicalSort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\LegacySort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\LevenshteinDistance.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\MaxElement.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\MinElement.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\NoneOf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Partition.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\RandomShuffle.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\RemoveIf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Replace.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Reverse.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Rotate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\SelectRandomWeighted.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Sort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\StableSort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\TiedTupleOutput.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\TopologicalSort.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Transform.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Unique.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Impl\BinaryHeap.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Algo\Impl\RangePointerType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Algo\Impl</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Concepts\EqualityComparable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Concepts</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Concepts\GetTypeHashable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Concepts</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Concepts\Insertable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Concepts</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Concepts\StaticClassProvider.h">
+      <Filter>Header Files\ServerAPI\API\UE\Concepts</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Concepts\StaticStructProvider.h">
+      <Filter>Header Files\ServerAPI\API\UE\Concepts</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\UnrealString.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\Array.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\ArrayView.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\BasicArray.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\BitArray.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\ContainerAllocationPolicies.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\ContainerElementTypeCompatibility.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\ContainersFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\EnumAsByte.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\HashTable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\List.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\Map.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\ScriptArray.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\Set.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\SortedMap.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\SparseArray.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\StringConv.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\StringFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Containers\StringView.h">
+      <Filter>Header Files\ServerAPI\API\UE\Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\Delegate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\DelegateBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\DelegateCombinations.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\DelegateInstanceInterface.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\DelegateInstancesImpl.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\DelegateMacros.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\DelegateSettings.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\IDelegateInstance.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\IntegerSequence.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\MulticastDelegateBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Delegates\TSMulticastDelegateBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\Delegates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatform.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformAffinity.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformChunkInstall.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformCompilerPreSetup.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformCrashContext.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformCriticalSection.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformDriver.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformFile.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformHostCommunication.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformHostSocket.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformMallocCrash.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformMath.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformMemory.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformMemoryPoolStats.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformMisc.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformNamedPipe.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformOutputDevices.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformProcess.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformProperties.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformStackWalk.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformStricmp.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformString.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformSymbolication.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformTime.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericPlatformTLS.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\GenericWidePlatformString.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\MicrosoftPlatformString.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\OSAllocationPool.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\GenericPlatform\StandardPlatformString.h">
+      <Filter>Header Files\ServerAPI\API\UE\GenericPlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\AllowTCHAR.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ConsoleManager.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\CriticalSection.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\DiskUtilizationTracker.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Event.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ExceptionHandling.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\FeedbackContextAnsi.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\FileManager.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\FileManagerGeneric.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\HideTCHAR.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\IConsoleManager.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\IPlatformFileCachedWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\IPlatformFileLogWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\IPlatformFileManagedStorageWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\IPlatformFileModule.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\IPlatformFileOpenLogWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\LowLevelMemStats.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\LowLevelMemTracker.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\LowLevelMemTrackerDefines.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocAnsi.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocBinned.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocBinned2.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocBinned3.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocBinnedArena.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocBinnedCommon.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocBinnedGPU.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocCallstackHandler.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocDebug.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocDoubleFreeFinder.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocFrameProfiler.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocJemalloc.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocLeakDetection.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocMimalloc.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocPoisonProxy.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocReplayProxy.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocStomp.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocStomp2.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocTBB.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocThreadSafeProxy.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MallocTimer.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MemoryBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\MemoryMisc.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\OutputDevices.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PageCache.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Platform.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformAffinity.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformCrashContext.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformCrt.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformFile.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformFileCommon.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformFileManager.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformIncludes.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformMallocCrash.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformMath.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformMemory.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformMemoryHelpers.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformMisc.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformNamedPipe.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformOutputDevices.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformProcess.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformProperties.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformStackWalk.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformString.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformTime.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PlatformTLS.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PreprocessorHelpers.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PThreadCriticalSection.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PThreadEvent.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PThreadRWLock.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\PThreadSemaphore.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Runnable.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\RunnableThread.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Thread.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadHeartBeat.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadingBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadManager.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadSafeBool.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadSafeCounter.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadSafeCounter64.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\ThreadSingleton.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\TlsAutoCleanup.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\UESemaphore.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\UnrealMemory.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\VirtualAllocator.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Allocators\CachedOSPageAllocator.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL\Allocators</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Allocators\CachedOSVeryLargePageAllocator.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL\Allocators</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\HAL\Allocators\PooledVirtualMemoryAllocator.h">
+      <Filter>Header Files\ServerAPI\API\UE\HAL\Allocators</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Hash\Blake3.h">
+      <Filter>Header Files\ServerAPI\API\UE\Hash</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Hash\CityHash.h">
+      <Filter>Header Files\ServerAPI\API\UE\Hash</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Hash\CityHashHelpers.h">
+      <Filter>Header Files\ServerAPI\API\UE\Hash</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Hash\xxhash.h">
+      <Filter>Header Files\ServerAPI\API\UE\Hash</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\CulturePointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\Internationalization.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\ITextData.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\LocalizedTextSourceTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\LocKeyFuncs.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\LocTesting.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\Regex.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\StringTableCoreFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\Text.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\TextComparison.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\TextKey.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\TextLocalizationManager.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Internationalization\TextNamespaceFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Internationalization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Logging\LogVerbosity.h">
+      <Filter>Header Files\ServerAPI\API\UE\Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Axis.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\BasicMathExpressionEvaluator.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\BigInt.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Bounds.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Box.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Box2D.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\BoxSphereBounds.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\CapsuleShape.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\ClipProjectionMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Color.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\ColorList.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\ConvexHull2d.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\CurveEdInterface.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\DualQuat.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Edge.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Float16.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Float16Color.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Float32.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\FloatPacker.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\GenericOctree.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\GenericOctreePublic.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Halton.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Int128.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\InterpCurve.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\InterpCurvePoint.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Interval.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\IntPoint.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\IntRect.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\IntVector.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\InverseRotationMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\MathFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Matrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\MirrorMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\MovingWindowAverageFast.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\NumericLimits.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\OrientedBox.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\OrthoMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\PackedVector.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\PerspectiveMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Plane.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Quat.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\QuatRotationTranslationMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\RandomStream.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Range.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\RangeBound.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\RangeSet.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Ray.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\RotationAboutPointMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\RotationMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\RotationTranslationMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Rotator.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\ScalarRegister.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\ScaleMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\ScaleRotationTranslationMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\SHMath.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Sobol.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Sphere.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\StatisticalFloat.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Transform.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TransformCalculus.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TransformCalculus2D.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TransformCalculus3D.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TransformNonVectorized.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TransformVectorized.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TranslationMatrix.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\TwoVectors.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnitConversion.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMath.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathDirectX.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathFPU.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathNeon.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathSSE.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathUtility.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathVectorCommon.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealMathVectorConstants.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealPlatformMathSSE.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\UnrealPlatformMathSSE4.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Vector.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Vector2D.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Vector2DHalf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\Vector4.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Math\VectorRegister.h">
+      <Filter>Header Files\ServerAPI\API\UE\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\AllowMicrosoftPlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\AllowMicrosoftPlatformTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\COMPointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\HideMicrosoftPlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\HideMicrosoftPlatformTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\MicrosoftPlatformCrashContext.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\MicrosoftPlatformMath.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\MicrosoftPlatformStackWalk.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\MinimalWindowsApi.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\MinWindows.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\PostWindowsApi.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\PreWindowsApi.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Microsoft\WindowsHWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Microsoft</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AccessDetection.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AES.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\App.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ArchiveMD5.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AsciiSet.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AssertionMacros.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AsyncTaskNotification.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Attribute.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AutomationEvent.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\AutomationTest.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Base64.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\BufferedOutputDevice.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Build.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ByteSwap.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CallbackDevice.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Change.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Char.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CommandLine.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ComparisonUtility.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CompilationResult.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CompressedGrowableBuffer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Compression.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CompressionFlags.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ConfigCacheIni.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ConfigContext.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ConfigHierarchy.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ConfigTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ConfigUtilities.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CoreAsyncTaskNotificationImpl.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CoreDefines.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CoreDelegates.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CoreMisc.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CoreMiscDefines.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CoreStats.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Crc.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\CString.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\DataDrivenPlatformInfoRegistry.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\DateTime.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\DefaultValueHelper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\DelayedAutoRegister.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\DelegateFilter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\DisableOldUETypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EmbeddedCommunication.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EngineBuildSettings.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EngineNetworkCustomVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EngineVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EngineVersionBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EngineVersionComparison.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EnumClassFlags.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EnumerateRange.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\EnumRange.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Exec.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ExpressionParser.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ExpressionParserTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FallbackStruct.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FbxErrors.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FeedbackContext.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FeedbackContextMarkup.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FieldAccessor.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FileHelper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FilterCollection.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Fnv.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Fork.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FrameNumber.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FrameRate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FrameTime.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\FrameValue.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\GeneratedTypeName.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\GenericGrowableAllocator.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Guid.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\HashBuilder.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\HierarchicalLogArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ICompressionFormat.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\IEngineCrypto.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\IFilter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ILifeCycle.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\InlineValue.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\InteractiveProcess.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\IQueuedWork.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ITransaction.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\KeyChainUtilities.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\LargeWorldCoordinates.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\LargeWorldCoordinatesSerializer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\LargeWorldRenderPosition.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Launder.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\LazySingleton.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\LocalTimestampDirectoryVisitor.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\LowLevelTestAdapter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MapErrors.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MemoryReadStream.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MemStack.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MemStackUtility.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MessageDialog.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MonitoredProcess.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MonolithicHeaderBoilerplate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\MTAccessDetector.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\NamePermissionList.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\NetworkGuid.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\NetworkVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\NoopCounter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ObjectThumbnail.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Optional.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OptionalFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDevice.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceAnsiError.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceArchiveWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceConsole.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceDebug.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceError.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceFile.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceHelper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceMemory.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceNull.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\OutputDeviceRedirector.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Parse.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Paths.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\PathViews.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\PreloadableFile.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\PreLoadFile.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\QualifiedFrameTime.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\QueuedThreadPool.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\QueuedThreadPoolWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\RemoteConfigIni.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\RuntimeErrors.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ScopedEvent.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ScopedSlowTask.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ScopeExit.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ScopeLock.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ScopeRWLock.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\ScopeTryLock.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\SecureHash.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\SingleThreadEvent.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\SingleThreadRunnable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\SlowTask.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\SlowTaskStack.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\SpinLock.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\StaticAssertCompleteType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\StringBuilder.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\StringFormatArg.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\StringFormatter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\StringUtility.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\StructBuilder.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TextFilter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TextFilterExpressionEvaluator.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TextFilterUtils.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Timecode.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TimeGuard.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Timeout.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Timespan.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TrackedActivity.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TVariant.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TVariantMeta.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\TypeContainer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\UProjectInfo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\URLRequestFilter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\VarArgs.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\Variant.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Misc\WildcardString.h">
+      <Filter>Header Files\ServerAPI\API\UE\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\MSVC\MSVCPlatform.h">
+      <Filter>Header Files\ServerAPI\API\UE\MSVC</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\ProfilingDebugging\UMemoryDefines.h">
+      <Filter>Header Files\ServerAPI\API\UE\ProfilingDebugging</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\Archive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArchiveCookData.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArchiveLoadCompressedProxy.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArchiveProxy.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArchiveSaveCompressedProxy.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArchiveSerializedPropertyChain.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArrayReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\ArrayWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\BitArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\BitReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\BitWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\BufferArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\BufferReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\BufferWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinary.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinaryContainerSerialization.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinaryPackage.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinarySerialization.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinaryValidation.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinaryValue.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompactBinaryWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CompressedChunkInfo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\CustomVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\FileRegions.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\LargeMemoryData.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\LargeMemoryReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\LargeMemoryWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\LoadTimeTrace.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MappedName.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryHasher.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryImage.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryImageWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryLayout.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\MemoryWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\NameAsStringIndexProxyArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\NameAsStringProxyArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\PackageWriter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StaticMemoryReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchive.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveAdapters.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveChildReader.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveDefines.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveFormatter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveNameHelpers.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveSlotBase.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\StructuredArchiveSlots.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\VarInt.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\Csv\CsvParser.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization\Csv</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Serialization\Formatters\BinaryArchiveFormatter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Serialization\Formatters</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\BytesToHex.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\Escape.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\Find.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\HexToBytes.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\Join.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\LexFromString.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\LineEndings.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\ParseLines.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\ParseTokens.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\String\RemoveFrom.h">
+      <Filter>Header Files\ServerAPI\API\UE\String</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\AlignmentTemplates.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\AndOrNot.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\AreTypesEqual.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Atomic.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\ChooseClass.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\CopyQualifiersAndRefsFromTo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\CopyQualifiersFromTo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Decay.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\DontCopy.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\EnableIf.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\EqualTo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Function.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Greater.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Identity.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IdentityFunctor.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IntegralConstant.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Invoke.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsAbstract.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsArithmetic.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsArray.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsArrayOrRefOfType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsArrayOrRefOfTypeByPredicate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsClass.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsConst.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsConstructible.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsEnum.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsEnumClass.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsFloatingPoint.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsInitializerList.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsIntegral.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsInvocable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsMemberPointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsPODType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsPointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsPolymorphic.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsSigned.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsTrivial.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsTriviallyCopyAssignable.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsTriviallyCopyConstructible.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsTriviallyDestructible.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsUECoreType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\IsValidVariadicFunctionArg.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Less.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\LosesQualifiersFromTo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\MakeSigned.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\MakeUnsigned.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\MaxSizeof.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\MemoryOps.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Models.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\NonNullPointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\PimplPtr.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\PointerIsConvertibleFromTo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\RefCounting.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\RemoveCV.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\RemoveExtent.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\RemoveReference.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\ResolveTypeAmbiguity.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\RetainedRef.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\ReversePredicate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\ScopedCallback.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\SharedPointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\SharedPointerFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\SharedPointerInternals.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Sorting.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\Tuple.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\TypeCompatibleBytes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\TypeHash.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\UniqueObj.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\UniquePtr.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\UnrealTemplate.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\UnrealTypeTraits.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Templates\ValueOrError.h">
+      <Filter>Header Files\ServerAPI\API\UE\Templates</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\MemberFunctionPtrOuter.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\ElementType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IntType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IsCharEncodingCompatibleWith.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IsCharEncodingSimplyConvertibleTo.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IsCharType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IsContiguousContainer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IsFixedWidthCharEncoding.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Traits\IsVoidType.h">
+      <Filter>Header Files\ServerAPI\API\UE\Traits</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\WeakObjectPtrTemplates.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\AnimObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\AnimPhysObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\AutomationObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\BlueprintsObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\BuildObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\CineCameraObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\CoreObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\DebugSerializationFlags.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\DestructionObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\DevObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\EditorObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\EnterpriseObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ExternalPhysicsCustomObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ExternalPhysicsMaterialCustomObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\FortniteMainBranchObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\FortniteNCBranchObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\FortniteReleaseBranchCustomObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\FortniteShaderworkObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\FrameworkObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\GeometryObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\LoadTimesObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\MediaFrameWorkObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\MobileObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\NameBatchSerialization.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\NameTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\NetworkingObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\NiagaraObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ObjectPtr.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\OnlineObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\PhysicsObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\PlatformObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\PropertyPortFlags.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ReflectionCaptureObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ReleaseObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\RenderingObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\ScriptDelegates.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\SequencerObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UE5CookerObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UE5LWCRenderingStreamObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UE5MainStreamObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UE5PrivateFrostyStreamObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UE5ReleaseStreamObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UnrealNames.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\UObjectHierarchyFwd.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\VirtualProductionObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\UObject\VRObjectVersion.h">
+      <Filter>Header Files\ServerAPI\API\UE\UObject</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\AllowWindowsPlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\AllowWindowsPlatformTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\COMPointer.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\HideWindowsPlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\HideWindowsPlatformTypes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\MinimalWindowsApi.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\MinWindows.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\PostWindowsApi.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\PreWindowsApi.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsCriticalSection.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsErrorOutputDevice.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsEventLogOutputDevice.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsHWrapper.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatform.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformAffinity.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformAtomics.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformCodeAnalysis.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformCompilerPreSetup.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformCompilerSetup.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformCrashContext.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformFile.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformMath.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformMemory.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformMisc.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformNamedPipe.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformOutputDevices.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformProcess.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformProperties.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformStackWalk.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformString.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformTime.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsPlatformTLS.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsSemaphore.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\API\UE\Windows\WindowsSystemIncludes.h">
+      <Filter>Header Files\ServerAPI\API\UE\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Ark\ArkApiUtils.h">
+      <Filter>Header Files\ServerAPI\Ark</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\Logger.h">
+      <Filter>Header Files\ServerAPI\Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\async_logger.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\common.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\formatter.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\logger.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\spdlog.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\tweakme.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\spdlog_impl.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\async_log_helper.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\async_logger_impl.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\file_helper.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\log_msg.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\logger_impl.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\mpmc_bounded_q.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\null_mutex.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\os.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\pattern_formatter_impl.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\details\registry.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\details</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\fmt.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\ostr.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\container.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\format.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\ostream.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\posix.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\printf.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\string.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\fmt\bundled\time.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\fmt\bundled</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\android_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\ansicolor_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\base_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\dist_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\file_sinks.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\msvc_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\null_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\ostream_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\stdout_sinks.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\syslog_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\wincolor_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
+    <ClInclude Include="extern\ServerAPI\AsaApi\Core\Public\Logger\spdlog\sinks\windebug_sink.h">
+      <Filter>Header Files\ServerAPI\Logger\spdlog\sinks</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
