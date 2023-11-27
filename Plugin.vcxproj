@@ -68,6 +68,7 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableUAC>false</EnableUAC>
+      <AdditionalDependencies>lib\AsaApi.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <PreBuildEvent>
       <Command>if exist "$(TargetDir)$(TargetFileName).arkapi" del /q "$(TargetDir)$(TargetFileName).arkapi"</Command>
