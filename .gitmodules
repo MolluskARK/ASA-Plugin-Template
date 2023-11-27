@@ -1,0 +1,3 @@
+[submodule "extern/ServerAPI"]
+	path = extern/ServerAPI
+	url = https://github.com/ServersHub/ServerAPI.git
