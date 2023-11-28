@@ -15,7 +15,7 @@ void Hook_AShooterGameMode_BeginPlay(AShooterGameMode* _this)
     OnServerReady();
 }
 
-// Called by ArkServerApi when the plugin is loaded, do pre-"server ready" initialization here
+// Called by AsaApi when the plugin is loaded, do pre-"server ready" initialization here
 extern "C" __declspec(dllexport) void Plugin_Init()
 {
     Log::Get().Init(PROJECT_NAME);
@@ -27,7 +27,7 @@ extern "C" __declspec(dllexport) void Plugin_Init()
         OnServerReady();
 }
 
-// Called by ArkServerApi when the plugin is unloaded, do cleanup here
+// Called by AsaApi when the plugin is unloaded, do cleanup here
 extern "C" __declspec(dllexport) void Plugin_Unload()
 {
     AsaApi::GetHooks().DisableHook("AShooterGameMode.BeginPlay()", Hook_AShooterGameMode_BeginPlay);
