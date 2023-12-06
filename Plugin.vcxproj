@@ -833,7 +833,10 @@
       <Command>if exist "$(TargetDir)$(TargetFileName).arkapi" del /q "$(TargetDir)$(TargetFileName).arkapi"</Command>
     </PreBuildEvent>
     <PostBuildEvent>
-      <Command>copy /y "$(TargetDir)$(TargetFileName)" "$(TargetDir)$(TargetFileName).arkapi"</Command>
+      <Command>copy /y "$(TargetDir)$(TargetFileName)" "$(TargetDir)$(TargetFileName).arkapi"
+mkdir "$(SolutionDir)Output\$(ProjectName)\"
+copy /y "$(TargetPath)" "$(SolutionDir)Output\$(ProjectName)\$(TargetFileName)"
+copy /y "$(SolutionDir)configs\PluginInfo.json" "$(SolutionDir)Output\$(ProjectName)\PluginInfo.json"</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
