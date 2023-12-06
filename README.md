@@ -33,5 +33,5 @@ Directory path: ```<Solution>Output/<PluginName>/...```
 # Copy the Build files
 Directory path: ```<Solution>/Output/<PluginName>```
 It contains:
-- ```<PluginName>.dll``
+- ```<PluginName>.dll```
 - ```PluginInfo.json```
