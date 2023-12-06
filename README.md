@@ -27,11 +27,11 @@ vcpkg integrate install
 ```
 # Modifying PluginInfo.json
 The file is location in configs and it will automatically copied to
-Directory path: <Solution>Output/<PluginName>/...
+Directory path: ```<Solution>Output/<PluginName>/...```
 
 
 # Copy the Build files
-Directory path: <Solution>/Output/<PluginName>
+Directory path: ```<Solution>/Output/<PluginName>```
 It contains:
-- <PluginName>.dll
-- PluginInfo.json
+- ```<PluginName>.dll``
+- ```PluginInfo.json```
