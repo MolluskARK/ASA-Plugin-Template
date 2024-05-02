@@ -18,7 +18,7 @@ void Hook_AShooterGameMode_BeginPlay(AShooterGameMode* _this)
 // Called by AsaApi when the plugin is loaded, do pre-"server ready" initialization here
 extern "C" __declspec(dllexport) void Plugin_Init()
 {
-    Log::Get().Init(PROJECT_NAME);
+    Log::Get().Init("PluginTemplate");
 
     AsaApi::GetHooks().SetHook("AShooterGameMode.BeginPlay()", Hook_AShooterGameMode_BeginPlay,
         &AShooterGameMode_BeginPlay_original);
