@@ -5,11 +5,19 @@ Simple template and guide for building **ARK: Survival Ascended** server plugins
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/community/)
   - The "Desktop development with C++" workload should be installed via the Visual Studio Installer
   - Visual Studio must be configured to use vcpkg (launch the Visual Studio Developer Command Prompt under Tools -> Command Line, and enter `vcpkg integrate install`)
-- An **ARK: Survival Ascended** dedicated server with AsaApi installed
+- An **ARK: Survival Ascended** dedicated server with AsaApi and the latest [x64 MSVC Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed
 
-**Note:** This plugin template is up-to-date with AsaApi v1.17. If you require a newer version of the AsaApi library or headers, you should pull the latest code from [AsaApi](https://github.com/ArkServerApi/AsaApi) into the `extern\AsaApi\` submodule.
-## 1: Build AsaApi.lib
-In order to create fully functional plugins, we must first build the AsaApi library for our plugin to link against. Open `extern\AsaApi\AsaApi.sln` with Visual Studio, set the build configuration to `Release` and platform to `x64`, and build the solution. Once the build has completed, `AsaApi.lib` can be found in `extern\AsaApi\out_lib\`. The plugin template project is configured to find the library under that path.
+**Note:** This plugin template is up-to-date with AsaApi v1.18. If you require a newer version of the AsaApi headers, you should pull the latest code from [AsaApi](https://github.com/ArkServerApi/AsaApi) into the `extern\AsaApi\` submodule.
+## 1: Obtain AsaApi.lib
+To use AsaApi, plugins must link against the AsaApi library.
+### Option 1: Build AsaApi Yourself
+Open `extern\AsaApi\AsaApi.sln` with Visual Studio, set the build configuration to `Release` and platform to `x64`, and build the solution. Once the build has completed, `AsaApi.lib` can be found in `extern\AsaApi\out_lib\`. The plugin template project is configured to find the library under that path.
+
+**Note:** The AsaApi project is configured to build with MSVC toolset v14.39.33519. This can be installed under the "Individual components" tab in the Visual Studio Installer: `MSVC v143 - VS 2022 C++ x64/x86 build tools (v14.39-17.9)(Out of Support)`.
+### Option 2: Download The Released AsaApi Build
+Download the AsaApi release from [ark-server-api.com](https://ark-server-api.com/resources/asa-server-api.31/) or [GitHub](https://github.com/ArkServerApi/AsaApi/releases). Unzip the file and copy `AsaApi.lib` from the `Lib\` directory to `extern\AsaApi\out_lib\` (you may have to create this directory).
+
+To avoid compatibility issues, you should download the release version that matches the code in the `extern\AsaApi\` submodule.
 ## 2: Modify The Plugin Template
 Open `PluginTemplate.sln` with Visual Studio and rename the solution and project with your desired plugin name. The plugin file produced by the build will be named `[ProjectName].dll`.
 
